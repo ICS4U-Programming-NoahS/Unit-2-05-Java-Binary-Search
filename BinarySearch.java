@@ -119,7 +119,7 @@ final class BinarySearch {
         Scanner scanner = new Scanner(System.in);
 
         // Greeting
-        System.out.println("Welcome to the linear search program!");
+        System.out.println("Welcome to the binary search program!");
 
         // initialize userNum outside the loop
         String userNum = "";
